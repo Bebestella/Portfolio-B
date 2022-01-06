@@ -41,9 +41,11 @@ a.font-black {
   max-width: 700px;
   text-align: center;
 }
+
 #about img {
   border-radius: 50%;
-  width: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 10px;
 }
 
