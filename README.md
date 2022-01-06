@@ -3,7 +3,8 @@ This portfolio is a small project using HTMl / CSS and Boostrap. I will be using
 [Live Heroku Deployment](https://portfolio-bebe.herokuapp.com/)
 
 # Screenshot:
- <img width="1353" alt="Screenshot 2022-01-03 at 10 15 27 AM" src="https://user-images.githubusercontent.com/87843054/147900302-584933f9-bce4-4220-b9f3-008f493579b6.png">
+ <img width="1415" alt="Screenshot 2022-01-06 at 7 13 04 AM" src="https://user-images.githubusercontent.com/87843054/148314546-4de2fd50-d16c-45b3-9886-bebbfbf467c6.png">
+
 
 
 ## Technology Used:
